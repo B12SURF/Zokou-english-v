@@ -14,17 +14,17 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": "#",
+      "value": "*",
       "required": true
     },
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "PM_PERMIT": {
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "GUY BRANDON 237 🇨🇲",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value": "https://telegra.ph/file/f55f1a5df4335eb6cd4ef.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -57,7 +57,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUJvK3VkNGs2UlhWdVg3bUhLZTdBUnJnaVZzM2U2aXFNMWtPdENUa2pXTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieUkraTVvQjlUYjRDVlVrMGRlc1NxRWJoREl6eEtHVE1ESjhKZE12eEhFTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnQmtmaDUrSTJ3WU93Yk5BcjdRWGJBWTJrdTJBRUkxWk5uUHAvcExqcFdFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJiWTdZRk1TaXNra0JtZ3RrbDlVKzFTeTc5UjNIdDBaYlZybjJ4QVJQakZRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVEMGc4RHozaktBVGJad2JuRGhBdW5iZzRQeXV4OWx5Mm12RjdkaVBtR289In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ijk5U2h4QU1jMDZQdllRUzNIL3B5QUlpV25WY0EvOVpqQTEya2x6dFdBWFE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK0taSW9DeHJHQWpsL0IxRnZBdWlsVEtpZDJIVmltQ0NqbmRGZzNGOHdXOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRzgrWkkvajFMNzhET3JZK2pSM21HL01ZZWRaOXhMRVUvY3lQT1RzWWZTWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImhwQ1R6SEVkdnlZOFFiUFA3cWZhNTZZSklKYmdoZGJUeXFGTzcwcm03OGJ4Rk1BWmNjOVBtQjh4c29LbTNMNkJ0dEkyMXR6REdoclU2TzJhZEhqWEF3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTc2LCJhZHZTZWNyZXRLZXkiOiJkZ0tWZVFrT2VKMGlVbWphLzBUMEFvMnhiOVQrL0FKT0Zicm9ad3RtMmFRPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoidUlxRjUzaGhTRU9CR0toeVJMdXFLQSIsInBob25lSWQiOiJkNGNhMTQ1YS04NmE5LTRhNmEtOGU2My1iN2Y3MTNlMGQ5OWIiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR3Z3NnNtbE0rNTdtaTc4eXMvbXlINXB5YXVVPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjluVmlDYjRkb1BZNC9jbDJScEMwSlNyenlBQT0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiI3SjVBTkpKRCIsIm1lIjp7ImlkIjoiMjM3Njc3ODc0NDAxOjYzQHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNOZVdwdW9IRUxQeTJyWUdHQWNnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJBQldOV0sxOHVScnZQd3N5dTlpaDFWQ1BSc2JqbFdMSFdlS0h4eUR6T3hvPSIsImFjY291bnRTaWduYXR1cmUiOiJiKzVtU1JNcndKZWIzN3lmSXBLa3VFbkp3dU9pNjd0REFFOE9QQWZKc2pBLzJ5RWI3UldYNzluekRROG9zWjBZdFdUS1NidnIzNHFUUXFJQmhVdzRBUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiYlNNSlIyYnhtUkdqY2ljVU9mK0x2ZHFCdUpWTmtFa0xUZEhIcG1jYUtwRHFtelZJUWZLMlZXbkZnSFhxSEtycnJZTHZwZHJydVV3L3ZIakc5WGpBQ0E9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzc2Nzc4NzQ0MDE6NjNAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUUFWalZpdGZMa2E3ejhMTXJ2WW9kVlFqMGJHNDVWaXgxbmloOGNnOHpzYSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCJ9",
       "required": true
     },
     "OWNER_NAME": {
@@ -68,7 +68,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "237677874401"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
